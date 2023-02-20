@@ -5,4 +5,4 @@ data in terms of GO enrichment**.
 
 Files included:
 
-- ``preprocessing.R``: Load and preprocessing of the ``SingleCellExperiment`` objects. Includes QC, normalization, feature selection, PCA, clustering. Packages needed: ``SingleCellExperiment``.
+- ``preprocessing.R``: Load and preprocessing of the ``SingleCellExperiment`` objects. Includes QC, normalization, feature selection, PCA, clustering. Packages needed: ``SingleCellExperiment``, ``scran``, ``scuttle``.
